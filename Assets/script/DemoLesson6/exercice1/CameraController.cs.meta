@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32d148fd1b478c44ca686e2e5b402609
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Blue_Bird: {fileID: 146898, guid: be049fa8d7a60574995a2523913743e7, type: 3}
+  - Chicken: {fileID: 118042, guid: 56f05323d192c5545a16f4c206783b3b, type: 3}
+  - Eagle: {fileID: 131070, guid: 427324e072b0f6b45a9a49b345b2ba18, type: 3}
+  - Owl: {fileID: 137050, guid: 0ee64ff31b8ad344782ee63849d96932, type: 3}
+  - Yellow_Bird: {fileID: 181536, guid: dc3ba7ed85285e84aa542b45dda7ccbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

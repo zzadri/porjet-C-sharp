@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8efce02c2a245b4a9e9c5dfcd780f7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedBullet: {fileID: 6066417547249774830, guid: 3a010c2a538af1241bcad8952d2b0263, type: 3}
+  - BlueBullet: {fileID: 6473010132492900449, guid: c128ba3b021e5134db252ca8a3670b5c, type: 3}
+  - GreenBullet: {fileID: 8429377414939140984, guid: f3393794b91c261498d86ebc98a3fb62, type: 3}
+  - OrangeBullet: {fileID: 8634396883905729384, guid: aace948bbd63ecd4fa0679a72308a6bd, type: 3}
+  - PinkBullet: {fileID: 8515628273437177314, guid: a691ab77a988241419b1b5a110836237, type: 3}
+  - PurpleBullet: {fileID: 8259610866241578554, guid: f58237fef8c7cf445932909ba1fdc786, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
